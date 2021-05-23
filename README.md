@@ -1,8 +1,7 @@
-# Vlab-Chemistry-Flash
+# Chemical Sciences
 
-Virtual Lab Chemistry flash animations and simulations 
-
-## Structure 
+The Virtual Laboratories were developed by Amrita Vishwa Vidyapeetham as part of Sakshat Virtual Labs,National Mission on Education through ICT, Ministry of Education, Government of India. The code was developed jointly by the Amrita Virtual Labs team and Amrita CREATE. For more info: vlab.amrita.edu Contact: Prof. Krishnashree Achuthan (krishna@amrita.edu) and Prof. Shyam Diwakar (shyam@amrita.edu)
+## Instructions 
 
 **Use the following steps to execute the **_Chemistry_** experiments.**
 
